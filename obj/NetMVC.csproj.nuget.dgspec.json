@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desktop\\PTPMQL\\NetMvc\\NetMVC.csproj": {}
+    "D:\\Desktop\\PTPMQL\\NetMVC\\NetMVC.csproj": {}
   },
   "projects": {
-    "D:\\Desktop\\PTPMQL\\NetMvc\\NetMVC.csproj": {
+    "D:\\Desktop\\PTPMQL\\NetMVC\\NetMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\PTPMQL\\NetMvc\\NetMVC.csproj",
+        "projectUniqueName": "D:\\Desktop\\PTPMQL\\NetMVC\\NetMVC.csproj",
         "projectName": "NetMVC",
-        "projectPath": "D:\\Desktop\\PTPMQL\\NetMvc\\NetMVC.csproj",
+        "projectPath": "D:\\Desktop\\PTPMQL\\NetMVC\\NetMVC.csproj",
         "packagesPath": "C:\\Users\\tuanq\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\PTPMQL\\NetMvc\\obj\\",
+        "outputPath": "D:\\Desktop\\PTPMQL\\NetMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tuanq\\AppData\\Roaming\\NuGet\\NuGet.Config"
